@@ -1,0 +1,2 @@
+# APIGatewaySample
+Lambda 統合リクエストを使用したLambda関数のJava実装サンプル
